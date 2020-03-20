@@ -1,0 +1,8 @@
+C:\Users\crist\source\repos\HelperUtility\HelperUtility\bin\Debug\HelperUtility.exe.config
+C:\Users\crist\source\repos\HelperUtility\HelperUtility\bin\Debug\HelperUtility.exe
+C:\Users\crist\source\repos\HelperUtility\HelperUtility\bin\Debug\HelperUtility.pdb
+C:\Users\crist\source\repos\HelperUtility\HelperUtility\obj\Debug\HelperUtility.HelperUtility.resources
+C:\Users\crist\source\repos\HelperUtility\HelperUtility\obj\Debug\HelperUtility.Properties.Resources.resources
+C:\Users\crist\source\repos\HelperUtility\HelperUtility\obj\Debug\HelperUtility.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\HelperUtility\HelperUtility\obj\Debug\HelperUtility.exe
+C:\Users\crist\source\repos\HelperUtility\HelperUtility\obj\Debug\HelperUtility.pdb
